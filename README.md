@@ -21,4 +21,4 @@ Feel free to customize and enhance this calculator as you like!
 
 If you'd like to see the complete code, check out the source code.
 
-Created by Your Name | Portfolio
+Created by G I R I 
